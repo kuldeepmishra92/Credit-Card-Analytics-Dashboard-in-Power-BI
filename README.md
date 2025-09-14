@@ -46,9 +46,9 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
    ## Visualizations
 Two Power BI reports are made - Credit Card Transaction Report, Credit Card Customer Report.
 ## Credit Card Transaction Report
-![image](https://github.com/kuldeepmishra92/Credit_card/blob/main/Credit%20Card%20Transactions%20Report_67351301_1.jpg)
+![image](https://github.com/kuldeepmishra92/Credit-Card-Analytics-Dashboard-in-Power-BI/blob/main/Credit%20Card%20Transactions%20Report_67351301_1.jpg)
 ## Credit Card Customer Report
-![image](https://github.com/kuldeepmishra92/Credit_card/blob/main/Credit%20Card%20Customer%20Report_67351359_1.jpg)
+![image](https://github.com/kuldeepmishra92/Credit-Card-Analytics-Dashboard-in-Power-BI/blob/main/Credit%20Card%20Customer%20Report_67351359_1.jpg)
 ## Project Insights
 ### WOW (Week On Week) change:
 - Revenue increased by 28.8%
